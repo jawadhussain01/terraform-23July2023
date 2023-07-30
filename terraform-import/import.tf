@@ -3,6 +3,6 @@ import {
   id = "sg-05022dca3cffc38a2"
 }
 
-# run terraform plan -generate-config-out="example.tf"
+# run terraform plan -generate-config-out="demosg.tf"
 # run terraform plan
 # run terraform apply
